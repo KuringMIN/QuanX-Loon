@@ -1,0 +1,6 @@
+# TFT
+ip-cidr, 35.155.222.150/24, direct
+host-suffix, singular.net, direct
+host-suffix, riotcdn.net, direct
+host-suffix, leagueoflegends.com, direct
+host-suffix, riotgames.com, direct
